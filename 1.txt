@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 l;fjda;fjdaljfdl;ajf;dajfl;dja
 Jiatong Changed 1st line.
 
@@ -5,3 +6,7 @@ Jiatong Changed 3rd line.
 
 Jiatong Changed 5th line.
 
+=======
+It's a long long journary~! Fighting~!
+To do something imporint !
+>>>>>>> 70a93b0539f1e70f9821edadaca2d2a90354b40b
