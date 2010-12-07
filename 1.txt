@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 HEAD
 l;fjda;fjdaljfdl;ajf;dajfl;dja
 Jiatong Changed 1st line.
@@ -12,3 +13,11 @@ To do something imporint !
 70a93b0539f1e70f9821edadaca2d2a90354b40b
 try to insert something
 add and add
+=======
+l;fjda;fjdaljfdl;ajf;dajfl;dja
+Jiatong Changed 1st line.
+
+Jiatong Changed 3rd line.
+It's a long logn journary~! Fighting~!
+Jiatong Changed 5th line.
+>>>>>>> caef98d8c75010f5c3ba0d75234b650ad33f3b38
